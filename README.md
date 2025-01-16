@@ -11,3 +11,6 @@ The backend is powered by **Django**, while the frontend is built using **React.
 - **Audio Analysis**: Upload `.wav` files for genre classification.
 - **Machine Learning Model**: Uses supervised learning algorithms to classify music genres accurately.
   
+### **Machine Learning**
+- **Libraries**: Scikit-learn, NumPy, and Pandas.
+- **Algorithm**: K-Nearest Neighbors (KNN) for classification.
